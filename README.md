@@ -1,4 +1,4 @@
-### go-design-patterns
+# Go-Design-Patterns
 ---
 * Solid
 * Builder Pattern
